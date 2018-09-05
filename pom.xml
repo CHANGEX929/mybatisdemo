@@ -11,6 +11,7 @@
     <modules>
         <module>mybatis-primer</module>
         <module>mybatis-proxy</module>
+        <module>mybatis-resultmap</module>
     </modules>
 
 

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mybatisprimer" />
         <module name="mybatisproxy" />
+        <module name="mybatisresultmap" />
       </profile>
     </annotationProcessing>
   </component>
